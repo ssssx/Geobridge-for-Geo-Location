@@ -22,7 +22,7 @@ Bo Du<sup>2,3 †</sup>.
   <a href="#-update">Update</a> |
   <a href="#-abstract">Abstract</a> |
   <a href="#-datasets">Datasets</a> |
-  <a href="#-model">Models</a> |
+  <a href="#-model">Model</a> |
   <a href="#-usage">Usage</a> |
   <a href="#-statement">Statement</a>
 </p >
