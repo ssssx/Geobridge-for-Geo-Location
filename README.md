@@ -30,6 +30,9 @@ Bo Du<sup>2,3 †</sup>.
 
 ## 🔥 Update
 
+**2026.05.14**
+- The dataset is now available.
+
 **2026.04.08**
 - The model is now available.
 
