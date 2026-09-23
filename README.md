@@ -31,7 +31,7 @@ Bo Du<sup>2,3 †</sup>.
 ## 🔥 Update
 
 **2026.09.23**
-- The extended journal version, **FactGeoBridge: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization**, is now available.
+- The extended journal version, **GeoBridge++: Fact-Guided Geo-Semantic Bridging for Unified Cross-View Geo-Localization**, is now available.
 
 **2026.05.14**
 - The dataset is now available.
